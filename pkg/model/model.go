@@ -1,12 +1,7 @@
 package model
 
 import (
-	"time"
-
-	"crypto/tls"
-
 	mail "github.com/xhit/go-simple-mail/v2"
-	"gopkg.in/confluentinc/confluent-kafka-go.v1/kafka"
 )
 
 const (
